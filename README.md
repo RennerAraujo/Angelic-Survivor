@@ -1,14 +1,3 @@
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Jogo feito com IA para campeonato da recriação de SERAPH'S LAST STAND. 
+IAs ultizadas Google ai studio, chat gpt e deepseek para programção, Imagem 4 do aistudio pra imagens, suno para musica e Evenlabs para efeito sonoros. Todos os modelos são gratuitos;
+O jogo é baseado em 15 waves, a cada wave o jogo é dificultado. O Jogo contém uma loja que é liberada a cada wave e na ultima wave há um boss
